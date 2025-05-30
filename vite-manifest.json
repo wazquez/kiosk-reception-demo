@@ -1,0 +1,118 @@
+{
+  ".svelte-kit/generated/nodes/0.js": {
+    "file": "internal/immutable/chunks/0-DLxohYlG.js",
+    "name": "0",
+    "src": ".svelte-kit/generated/nodes/0.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_singletons-Brc_MzBT.js",
+      "_stores-BAn_j0Pl.js"
+    ],
+    "css": [
+      "internal/immutable/assets/0-otY2283p.css"
+    ],
+    "assets": [
+      "internal/immutable/assets/materialdesignicons-webfont-ltXzaLmB.eot",
+      "internal/immutable/assets/materialdesignicons-webfont-B4kKRV84.woff2",
+      "internal/immutable/assets/materialdesignicons-webfont-a0GcWJ7o.woff",
+      "internal/immutable/assets/materialdesignicons-webfont-jCYKvYgh.ttf"
+    ]
+  },
+  ".svelte-kit/generated/nodes/1.js": {
+    "file": "internal/immutable/chunks/1-CfSPNIxa.js",
+    "name": "1",
+    "src": ".svelte-kit/generated/nodes/1.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_singletons-Brc_MzBT.js",
+      "_stores-BAn_j0Pl.js"
+    ]
+  },
+  ".svelte-kit/generated/nodes/2.js": {
+    "file": "internal/immutable/chunks/2-Chax23rp.js",
+    "name": "2",
+    "src": ".svelte-kit/generated/nodes/2.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_singletons-Brc_MzBT.js",
+      "_stores-BAn_j0Pl.js"
+    ],
+    "css": [
+      "internal/immutable/assets/2-B9p9Z2gI.css"
+    ]
+  },
+  "_singletons-Brc_MzBT.js": {
+    "file": "internal/immutable/chunks/singletons-Brc_MzBT.js",
+    "name": "singletons"
+  },
+  "_stores-BAn_j0Pl.js": {
+    "file": "internal/immutable/chunks/stores-BAn_j0Pl.js",
+    "name": "stores",
+    "imports": [
+      "_singletons-Brc_MzBT.js"
+    ]
+  },
+  "node_modules/@mdi/font/fonts/materialdesignicons-webfont.eot": {
+    "file": "internal/immutable/assets/materialdesignicons-webfont-ltXzaLmB.eot",
+    "src": "node_modules/@mdi/font/fonts/materialdesignicons-webfont.eot"
+  },
+  "node_modules/@mdi/font/fonts/materialdesignicons-webfont.ttf": {
+    "file": "internal/immutable/assets/materialdesignicons-webfont-jCYKvYgh.ttf",
+    "src": "node_modules/@mdi/font/fonts/materialdesignicons-webfont.ttf"
+  },
+  "node_modules/@mdi/font/fonts/materialdesignicons-webfont.woff": {
+    "file": "internal/immutable/assets/materialdesignicons-webfont-a0GcWJ7o.woff",
+    "src": "node_modules/@mdi/font/fonts/materialdesignicons-webfont.woff"
+  },
+  "node_modules/@mdi/font/fonts/materialdesignicons-webfont.woff2": {
+    "file": "internal/immutable/assets/materialdesignicons-webfont-B4kKRV84.woff2",
+    "src": "node_modules/@mdi/font/fonts/materialdesignicons-webfont.woff2"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
+    "file": "internal/immutable/start-DjaMTroQ.js",
+    "name": "start",
+    "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_singletons-Brc_MzBT.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/generated/nodes/0.js",
+      ".svelte-kit/generated/nodes/1.js",
+      ".svelte-kit/generated/nodes/2.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
+    "file": "internal/immutable/components/error.svelte-DdY2H2Rx.js",
+    "name": "components/error.svelte",
+    "src": "node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_singletons-Brc_MzBT.js",
+      "_stores-BAn_j0Pl.js",
+      ".svelte-kit/generated/nodes/1.js"
+    ]
+  },
+  "src/routes/+layout.svelte": {
+    "file": "internal/immutable/components/pages/_layout.svelte-CzvdDFFt.js",
+    "name": "components/pages/_layout.svelte",
+    "src": "src/routes/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_singletons-Brc_MzBT.js",
+      "_stores-BAn_j0Pl.js",
+      ".svelte-kit/generated/nodes/0.js"
+    ]
+  },
+  "src/routes/+page.svelte": {
+    "file": "internal/immutable/components/pages/_page.svelte-B_e84ei9.js",
+    "name": "components/pages/_page.svelte",
+    "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_singletons-Brc_MzBT.js",
+      "_stores-BAn_j0Pl.js",
+      ".svelte-kit/generated/nodes/2.js"
+    ]
+  }
+}
